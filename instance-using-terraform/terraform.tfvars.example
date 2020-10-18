@@ -1,0 +1,3 @@
+# Example
+do_token = "df046skdgjhsdglsdg82312536232r238f293f823952492834283492"
+ssh_key_path = "/home/omar/.ssh/id_rsa.pub"
